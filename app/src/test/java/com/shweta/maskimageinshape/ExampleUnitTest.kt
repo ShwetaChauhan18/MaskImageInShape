@@ -1,4 +1,4 @@
-package com.simform.maskimageinshape
+package com.shweta.maskimageinshape
 
 import org.junit.Test
 
