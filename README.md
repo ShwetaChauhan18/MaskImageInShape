@@ -15,6 +15,6 @@ Getting Started
 Masked Image
 ------------------------
 
-![demo_data](https://github.com/ShwetaChauhan18/MaskImageInShape/blob/master/images/masked_image.png)
+![demo_data](https://github.com/shwetachauhan-simform/MaskImageInShape/blob/master/images/masked_image.png)
 
 ### If this helps you in anyway, show your love :heart: by putting a :star: on this project :v:
